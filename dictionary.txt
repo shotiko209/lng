@@ -1,0 +1,15 @@
+Apple , ვაშლი
+Banana , ბანანი
+Orange , ფორთოხალი
+Rainbow , ცისარტყელა
+Get , მიღება
+Come , მოსვლა
+Go , წასვლა
+Work , მუშაობა
+Pig , ღორი
+Sheep , ცხვარი
+Ship , გემი
+Grandma , ბებია
+Grandpa , ბაბუა
+Mother , დედა
+Father, მამა
